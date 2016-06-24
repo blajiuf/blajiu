@@ -1,0 +1,23 @@
+/****
+    * 1. Format
+    * 2. Header 
+*****/
+
+/*1. Format*/
+
+body{
+    margin:0;
+    padding:0;
+    font-family: Lato,sans-serif;
+}
+
+.container{
+    max-width:1170px;
+}
+
+header{
+    
+}
+
+/*2. Header*/
+
